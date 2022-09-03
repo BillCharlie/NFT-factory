@@ -3,7 +3,7 @@
  适用于NFT基础入门学习，NFT铸造与开发上传至IPFS，并且可以在opensea上发布
 
 >语言
- solidity, webjs
+ solidity, nodejs,git
 
 >网站工具大全
  openzeppelin.com/contracts/合约编写工具网站
